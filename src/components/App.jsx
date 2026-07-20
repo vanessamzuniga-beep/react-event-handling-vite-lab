@@ -7,7 +7,11 @@ function App() {
 
   return (
     <div>
+      <h1>Password Tracker</h1>
+
       <PasswordInput/>
+      <br />
+      <br />
       <SubmitButton/>
     </div>
   )
